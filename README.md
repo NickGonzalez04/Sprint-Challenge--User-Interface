@@ -42,6 +42,15 @@ Edit this document to include your answers after each question. Make sure to lea
 
 5. Explain why git is valuable to a team of developers.
 
+** Questions Anwsered**
+
+1. Describing Semantic HTML to the next cohort of students I would say in my own words is being able to bring meaning to content in your web page. For example, thinking of html as building blocks for your webpage. If you do not have the foundation of blocks implemented into your web page then you really don’t have a web page. With out the foundation blocks in place you then will not be able to design and style your webpage.
+2. The the two big differences between display: block and display: inline; is that display: block ; turns elements into block elements. Display: inline is used to keep the flow of content or within the text.
+3.  Four areas of a box model (out to in) Margin - spacing between content, Border - area between the margin and padding around content, Padding - area that is extended around the content, Content - center element of the box model that’s area can be manipulated with the margin, border, and padding.
+4. Align-items: center works for the cross axis 
+5. Git is valuable to developers because it allows for work to be sent and worked on for other developers. It takes the save code and publishes into its cloud for further use.
+ *****
+
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
